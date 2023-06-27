@@ -29,4 +29,4 @@ let nameME = "©Shahriar"
 
 welcomeEl.innerText = greeting + nameME
 
-welcomeEl.innerText += "👋"
+welcomeEl.innerText += "👾"
